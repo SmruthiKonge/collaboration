@@ -1,0 +1,5 @@
+package com.smriti.dao;
+
+public class BlogDAO {
+
+}
